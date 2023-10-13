@@ -1,8 +1,8 @@
 ### Hi 👋
 
-- 🔭 I’m currently a student ...
-- 🌱 I’m currently learning frontend development...
-- 👯 I’m looking to collaborate with developer ...
+- 🌱 I’m Saw Kyaw Si Thu, a passionate Frontend Developer from Myanmar.
+👯 I’m looking to collaborate on HTML, CSS, Tailwind, JavaScript and React on Projects.
+
 
 
 My personal portfolio : 

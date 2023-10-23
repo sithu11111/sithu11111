@@ -6,6 +6,7 @@
 I’m Saw Kyaw Si Thu, a passionate Frontend Developer from Myanmar.
 </p>
 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <h3 align='center'>
@@ -14,7 +15,6 @@ I’m Saw Kyaw Si Thu, a passionate Frontend Developer from Myanmar.
     <img src=" https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />        
   </a>
   <a href="">
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   </a>
   
   <a href="">

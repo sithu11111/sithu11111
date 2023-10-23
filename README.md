@@ -63,7 +63,10 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=F7F362&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Send+me+a+message." alt="Typing SVG" />
 </h3>
+
+<br/>
+
 
 

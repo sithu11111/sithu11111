@@ -8,7 +8,7 @@ I’m Saw Kyaw Si Thu, a passionate Frontend Developer from Myanmar.
 
 
 
-<h3 align='center'>
+<h3 align=''>
 
   <a href="">
     <img src=" https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />        

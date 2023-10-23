@@ -12,16 +12,12 @@ I’m Saw Kyaw Si Thu, a passionate Frontend Developer from Myanmar.
   
   <a href="">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
+  </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
 
 
 - 👯 I’m looking to collaborate on HTML, CSS, Tailwind, JavaScript and React on Projects.

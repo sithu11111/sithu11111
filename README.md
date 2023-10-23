@@ -1,6 +1,13 @@
-<h1 align="center">Hi 👋, I'm Saw Kyaw Si Thu</h1>
-<h3 align="center">A passionate Frontend developer from Myanmar.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Saw+Kyaw+Si+Thu!;" />
+</h1>
+
+
+<h3 align="center">A passionate Frontend developer from Myanmar(Burma).</h3>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" style="border-radius:10" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 
 <h3 align="left">Connect with me:</h3>
@@ -39,10 +46,24 @@
 
 
 
-My personal portfolio : 
+![](https://komarev.com/ghpvc/?username=sithu11111&color=green)
 
-- 👀 http://sawkyawsithu.atwebpages.com/ 
+<br/>
+<br/>
 
-- ![](https://komarev.com/ghpvc/?username=sithu11111&color=green)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithu11111&show_icons=true&locale=en&layout=compact" alt="sithu11111" /></p>
+<div align=center>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sithu11111&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+<br/>
+<br/>
+
+<hr/>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message."/>
+</h3>
+
 

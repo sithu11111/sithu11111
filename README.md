@@ -7,6 +7,9 @@
 
 <br/>
 
+<p align="left">I’m looking to collaborate on HTML, CSS, Tailwind, JavaScript and React on Projects.
+</p>
+
 <img align="right" alt="Coding" width="400" style="border-radius:10" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" >
 
 
@@ -45,10 +48,6 @@
  </a> 
 </p>
 
-
-
-<p align="left">I’m looking to collaborate on HTML, CSS, Tailwind, JavaScript and React on Projects.
-</p>
  
 
 
